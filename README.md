@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Anjali Dhakad
+Author - Anjali(apna college)
